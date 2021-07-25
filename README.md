@@ -3,7 +3,7 @@
 
 # Hello World! <img src="https://media.tenor.com/images/45eacfe032ce44bd49ab05d99b4bae86/tenor.gif" width="30" height="30"/>
 
-I'm Arihant, a student from India. I like to code and to learn new things. I also compose music, play the piano and harmoinca, and enjoy playing various sports and video games. I occasionally write articles on Medium too.
+I'm Arihant, a student from India. I like to code and to learn new things. I also compose music, play the piano and harmonica, and enjoy playing various sports and video games. I occasionally write articles on Medium too.
 
 <hr>
 <p align="center" style="font-size: 25px;">I aspire to create great things with the power of code.</p>
