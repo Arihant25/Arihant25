@@ -13,18 +13,18 @@ I'm Arihant, a student from India. I like to code and to learn new things. I als
 
 I'm currently learning/have learnt the following:
 
-Python, Flask, HTML, CSS, JavaScript, SQL, QBasic, Visual Basic, React, React Native, C++, Scratch, BBC Micro:Bit, Raspberry Pi.
+Python, HTML, CSS, JavaScript, SQL, QBasic, Visual Basic, React, React Native, C++, Java, Scratch, BBC Micro:Bit, Raspberry Pi.
 
 ## Stats
 
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arihant25&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Arihant+Tripathy%27s+Awesome+GitHub+Stats!&bg_color=30,ff0000,ff2300,ff3400,ff4100,ff4c00,f16f00,e38800,d49d00,b1be33,88d86e,55eeaf,00ffef&title_color=fff&text_color=fff" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arihant25&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Arihant%27s+Awesome+GitHub+Stats!&bg_color=30,ff0000,ff2300,ff3400,ff4100,ff4c00,f16f00,e38800,d49d00,b1be33,88d86e,55eeaf,00ffef&title_color=fff&text_color=fff" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arihant25&hide_border=true&langs_count=10&layout=compact&custom_title=My%20Top%20Languages%20On%20GitHub&bg_color=20,bb08b3,8e5fe2,5188fa,00a7fd,2cbff4&title_color=fff&text_color=fff" />
 
 </p>
 
-![Arihant's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arihant25&hide_border=true&custom_title=Time+Spent+Coding+Each+Language&&bg_color=20,053885,a63994,ff4e72,ff9e32,fbfb00&title_color=fff&text_color=fff)
+![Arihant's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arihant25&hide_border=true&custom_title=Time+Spent+Coding+This+Week&&bg_color=20,053885,a63994,ff4e72,ff9e32,fbfb00&title_color=fff&text_color=fff)
 
 ## Socials
 
@@ -38,7 +38,7 @@ You can find me on:
 
 <hr>
 
-Woah, look at how many times people visited this page!
+Woah, look at how many times people (like you) have visited my profile!
 
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Arihant25&style=for-the-badge" height="60" width="260">
 
