@@ -3,7 +3,7 @@
 
 # Hello World! <img src="https://media.tenor.com/images/45eacfe032ce44bd49ab05d99b4bae86/tenor.gif" width="30" height="30"/>
 
-I'm Arihant, a student from India. I like to code and to learn new things. I also compose music, play the piano and harmonica, and enjoy playing various sports and video games. I occasionally write articles on Medium too.
+I'm Arihant, a student from India. I like to code and to learn new things. I also compose music, play the piano, and enjoy playing various sports and video games. I occasionally write articles on Medium too.
 
 <hr>
 <p align="center" style="font-size: 25px;">I aspire to create great things with the power of code.</p>
@@ -13,8 +13,7 @@ I'm Arihant, a student from India. I like to code and to learn new things. I als
 
 I'm currently learning/have learnt the following:
 
-Python, HTML, CSS, JavaScript, SQL, QBasic, Visual Basic, React, React Native, C++, Java, Scratch, BBC Micro:Bit, Raspberry Pi.
-
+Python, HTML, CSS, JavaScript, SQL, QBasic, Visual Basic, React, React Native, C++, C
 ## Stats
 
 <p>
@@ -37,12 +36,6 @@ You can find me on:
 [![Links Badge](https://img.shields.io/badge/Elsewhere-red?style=for-the-badge)](https://bio.link/arihanttr)
 
 <hr>
-
-Woah, look at how many times people (like you) have visited my profile!
-
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Arihant25&style=for-the-badge" height="60" width="260">
-
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200&text=Thanks%20for%20visiting%20me!&animation=twinkling&fontSize=40&fontAlignY=70)
 
